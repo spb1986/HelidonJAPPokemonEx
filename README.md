@@ -47,3 +47,13 @@ To get a pokeman with specific type
 ```sh
 curl -X GET curl -X GET http://localhost:8080/pokemon/type/{type}
 ```
+
+# Init DB data
+```
+{"id":"1","arge":10,"name":"Caterpie","type":"Bug"}
+{"id":"2","arge":1,"name":"Bulbasaur","type":"Grass"}
+{"id":"3","arge":8,"name":"Wartortle","type":"Water"}
+{"id":"4","arge":87,"name":"Dewgong","type":"Ice"}
+{"id":"5","arge":16,"name":"Pidgey","type":"Normal"}
+{"id":"6","arge":5,"name":"Charmeleon","type":"Fire"}
+```
