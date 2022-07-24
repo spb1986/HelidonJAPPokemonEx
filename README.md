@@ -11,7 +11,7 @@ java -jar target/PokemonAPI.jar
 # Exercise the application
 To get list of Pokemon data
 ```sh
-curl -X GET curl -X GET http://localhost:8080/pokemon/getlist
+curl -X GET curl -X GET http://localhost:8080/pokemon/getList
 ```
 To get a pokeman with max arge 
 ```sh
@@ -34,4 +34,16 @@ curl -X GET curl -X GET http://localhost:8080/pokemon/create
 
 Input Ex:
 {"arge":21,"id":"7","name":"Weedle2","type":"Ice2"}
+```
+To get a pokeman with specific ID 
+```sh
+curl -X GET curl -X GET http://localhost:8080/pokemon/{id}
+```
+To get a list of pokemon by name starting with a letter as input and arge ascending
+```sh
+curl -X GET curl -X GET http://localhost:8080/pokemon/name/{nameStartswith}
+```
+To get a pokeman with specific type
+```sh
+curl -X GET curl -X GET http://localhost:8080/pokemon/type/{type}
 ```
