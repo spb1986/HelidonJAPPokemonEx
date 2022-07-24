@@ -1,4 +1,4 @@
-# HelidonJAPPokemonEx
+# HelidonJPAPokemonEx
 This project constains the pokemon API for CRUD services
 
 # Build and run
