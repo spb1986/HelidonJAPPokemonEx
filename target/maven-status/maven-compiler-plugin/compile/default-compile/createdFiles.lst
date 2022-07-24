@@ -1,0 +1,12 @@
+io\helidon\archetypes\tests\jaxb\PersistenceUnitCachingType.class
+helidon\service\pokemon\entity\Pokemon.class
+io\helidon\archetypes\tests\jaxb\ObjectFactory.class
+helidon\service\pokemon\entity\ErrorResponse.class
+io\helidon\archetypes\tests\jaxb\Persistence$PersistenceUnit.class
+io\helidon\archetypes\tests\jaxb\PersistenceUnitTransactionType.class
+io\helidon\archetypes\tests\jaxb\PersistenceUnitValidationModeType.class
+io\helidon\archetypes\tests\jaxb\Persistence$PersistenceUnit$Properties$Property.class
+io\helidon\archetypes\tests\jaxb\package-info.class
+io\helidon\archetypes\tests\jaxb\Persistence$PersistenceUnit$Properties.class
+io\helidon\archetypes\tests\jaxb\Persistence.class
+helidon\service\pokemon\PokemonResource.class
